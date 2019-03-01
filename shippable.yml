@@ -2,7 +2,7 @@ language: c
 
 compiler:
   - gcc #8.1.0
-  - clang #7.0.0
+  - clang #7.0.1
 
 build: 
 
